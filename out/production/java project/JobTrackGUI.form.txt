@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="JobTrackGUI">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="481"/>
+    </constraints>
+    <properties>
+      <autoscrolls value="true"/>
+      <background color="-7897975"/>
+      <debugGraphicsOptions value="5"/>
+      <foreground color="-1721915"/>
+      <inheritsPopupMenu value="true"/>
+      <minimumSize width="5" height="5"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a0874" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints border-constraint="North"/>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <inspectionSuppressions>
+    <suppress inspection="NoLabelFor" id="68e9e"/>
+  </inspectionSuppressions>
+</form>
